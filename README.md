@@ -104,11 +104,12 @@ Mendukung <b>Node.js versi 24</b>.
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AiiSima"><b>GitHub · AiiSima</b></a> •
-  <a href="https://t.me/AiiSimaRajaIblis"><b>Telegram · Community</b></a> •
-  <a href="https://www.youtube.com/@simaV1-9"><b>YouTube · simaV1-9</b></a>
-</p>
+
+<ul>
+  <li>GitHub: <a href="https://github.com/AiiSima">GitHub</a></li>
+  <li>Telegram Community: <a href="https://t.me/AiiSimaRajaIblis">Telegram</a></li>
+  <li>YouTube Channel: <a href="https://www.youtube.com/@simaV1-9">YouTube</a></li>
+</ul>
 
 <p><b>⭐ Jika Anda menyukai proyek ini, berikan bintang pada repositori!</b></p>
 
