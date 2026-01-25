@@ -125,7 +125,7 @@ Mendukung <b>Node.js versi 24</b>.
 <hr>
 
 <h2>🧩 Instalasi</h2>
-<pre><code>npm install</code></pre>
+<pre><code>npm start</code></pre>
 
 <hr>
 
