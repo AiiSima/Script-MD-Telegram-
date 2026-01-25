@@ -91,25 +91,24 @@ Mendukung <b>Node.js versi 24</b>.
 <p align="center"><b>Jangan gunakan tab Masalah (Issues) untuk bertanya!</b></p>
 
 <p align="center">
-  <a href="https://t.me/AiiSimaRajaIblis">
+  <a href="https://github.com/AiiSima" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/AiiSimaRajaIblis" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" alt="Telegram">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@simaV1-9">
+  <a href="https://www.youtube.com/@simaV1-9" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40" alt="YouTube">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AiiSima">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" alt="GitHub">
   </a>
 </p>
 
-
-<ul>
-  <li>Telegram Community: <a href="https://t.me/AiiSimaRajaIblis">https://t.me/AiiSimaRajaIblis</a></li>
-  <li>YouTube Channel: <a href="https://www.youtube.com/@simaV1-9">https://www.youtube.com/@simaV1-9</a></li>
-  <li>GitHub: <a href="https://github.com/AiiSima">https://github.com/AiiSima</a></li>
-</ul>
+<p align="center">
+  <a href="https://github.com/AiiSima"><b>GitHub · AiiSima</b></a> •
+  <a href="https://t.me/AiiSimaRajaIblis"><b>Telegram · Community</b></a> •
+  <a href="https://www.youtube.com/@simaV1-9"><b>YouTube · simaV1-9</b></a>
+</p>
 
 <p><b>⭐ Jika Anda menyukai proyek ini, berikan bintang pada repositori!</b></p>
 
