@@ -68,7 +68,7 @@ Our social's💻
 <h1 style="color:red;text-align: center;" style="text-align: center;" align="center">Please do not use the "Issues" section to ask your questions!</h1>
 <div align="center">
    <img src="https://icon-library.com/images/github-icon-vector/github-icon-vector-27.jpg" width="64" height="64"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
+   <img src="https://files.catbox.moe/dgdcxp.png" />
    <img src="https://files.catbox.moe/ue80ko.png" width="64" height="64" alt="telegram" />
 </div>
 
