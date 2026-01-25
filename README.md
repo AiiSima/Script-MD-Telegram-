@@ -12,7 +12,7 @@
 
 <!-- GAMBAR UTAMA -->
 <p align="center">
-  <img src="https://files.catbox.moe/7g0mkt.jpg" width="900" alt="POWER">
+  <img src="https://files.catbox.moe/edjol8.jpg" width="900" alt="POWER">
 </p>
 
 <p align="center">
