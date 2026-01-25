@@ -15,8 +15,9 @@
   <img src="https://files.catbox.moe/7g0mkt.jpg" width="900" alt="POWER">
 </p>
 
+<!-- GAMBAR KEDUA (EFEK MIRING / OFFSET) -->
 <p align="center">
-  <img src="https://files.catbox.moe/x7bwwy.jpg" width="900" alt="SCRIPT">
+  <img src="https://files.catbox.moe/x7bwwy.jpg" width="860" alt="SCRIPT">
 </p>
 
 <hr>
@@ -89,20 +90,6 @@ Mendukung <b>Node.js versi 24</b>.
 
 <h2 align="center">Media Sosial Kami 💻</h2>
 <p align="center"><b>Jangan gunakan tab Masalah (Issues) untuk bertanya!</b></p>
-
-<p align="center">
-  <a href="https://github.com/AiiSima">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@simaV1-9">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="48" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/AiiSimaRajaIblis">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48" />
-  </a>
-</p>
 
 <ul>
   <li>Komunitas Telegram: <a href="https://t.me/AiiSimaRajaIblis">https://t.me/AiiSimaRajaIblis</a></li>
