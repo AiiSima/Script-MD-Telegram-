@@ -12,11 +12,11 @@
 
 <!-- GAMBAR UTAMA -->
 <p align="center">
-  <img src="https://files.catbox.moe/7g0mkt.jpg" width="1078" height="433" alt="POWER">
+  <img src="https://files.catbox.moe/7g0mkt.jpg" width="900" alt="POWER">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/x7bwwy.jpg" width="1078" height="296" alt="SCRIPT">
+  <img src="https://files.catbox.moe/x7bwwy.jpg" width="900" alt="SCRIPT">
 </p>
 
 <hr>
@@ -87,23 +87,29 @@ Mendukung <b>Node.js versi 24</b>.
 
 <hr>
 
-<h2 align="center">Our Social's 💻</h2>
-<h3 align="center" style="color:red;">Jangan gunakan tab Issues untuk bertanya!</h3>
+<h2 align="center">Media Sosial Kami 💻</h2>
+<p align="center"><b>Jangan gunakan tab Masalah (Issues) untuk bertanya!</b></p>
 
-<!-- SOSIAL ICON RAPI -->
 <p align="center">
   <a href="https://github.com/AiiSima">
-    <img src="https://icon-library.com/images/github-icon-vector/github-icon-vector-27.jpg" width="64" height="64">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/AiiSimaRajaIblis">
-    <img src="https://files.catbox.moe/ue80ko.png" width="64" height="64" alt="Telegram">
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@simaV1-9">
-    <img src="https://files.catbox.moe/dgdcxp.png" width="64" height="64" alt="YouTube">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/AiiSimaRajaIblis">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48" />
   </a>
 </p>
+
+<ul>
+  <li>Komunitas Telegram: <a href="https://t.me/AiiSimaRajaIblis">https://t.me/AiiSimaRajaIblis</a></li>
+  <li>Saluran YouTube: <a href="https://www.youtube.com/@simaV1-9">https://www.youtube.com/@simaV1-9</a></li>
+  <li>GitHub: <a href="https://github.com/AiiSima">https://github.com/AiiSima</a></li>
+</ul>
+
 
 <ul>
   <li>Telegram Community: <a href="https://t.me/AiiSimaRajaIblis">https://t.me/AiiSimaRajaIblis</a></li>
