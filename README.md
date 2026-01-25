@@ -131,7 +131,7 @@ Mendukung <b>Node.js versi 24</b>.
 
 <h2>📚 Dokumentasi</h2>
 <p>
-  <a href="https://github.com/AiiSima/Wiki.wiki.git">
+  <a href="https://github.com/AiiSima/Wiki/wiki">
     GitHub Wiki
   </a>
 </p>
