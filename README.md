@@ -90,23 +90,9 @@ Mendukung <b>Node.js versi 24</b>.
 <h2 align="center">Media Sosial Kami 💻</h2>
 <p align="center"><b>Jangan gunakan tab Masalah (Issues) untuk bertanya!</b></p>
 
-<p align="center">
-  <a href="https://github.com/AiiSima">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.png" width="48" height="48" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@simaV1-9">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="48" height="48" alt="YouTube">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/AiiSimaRajaIblis">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48" alt="Telegram">
-  </a>
-</p>
-
 <ul>
-  <li>Komunitas Telegram: <a href="https://t.me/AiiSimaRajaIblis">https://t.me/AiiSimaRajaIblis</a></li>
-  <li>Saluran YouTube: <a href="https://www.youtube.com/@simaV1-9">https://www.youtube.com/@simaV1-9</a></li>
+  <li>Telegram Community: <a href="https://t.me/AiiSimaRajaIblis">https://t.me/AiiSimaRajaIblis</a></li>
+  <li>YouTube Channel: <a href="https://www.youtube.com/@simaV1-9">https://www.youtube.com/@simaV1-9</a></li>
   <li>GitHub: <a href="https://github.com/AiiSima">https://github.com/AiiSima</a></li>
 </ul>
 
