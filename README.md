@@ -15,9 +15,8 @@
   <img src="https://files.catbox.moe/7g0mkt.jpg" width="900" alt="POWER">
 </p>
 
-<!-- GAMBAR KEDUA (EFEK MIRING / OFFSET) -->
 <p align="center">
-  <img src="https://files.catbox.moe/x7bwwy.jpg" width="860" alt="SCRIPT">
+  <img src="https://files.catbox.moe/8pauhc.jpg" width="900" alt="SCRIPT">
 </p>
 
 <hr>
