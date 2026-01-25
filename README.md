@@ -1,33 +1,33 @@
-<h1 align="center">👻 GHOST – Script MD Telegram dengan 1000 Metode</h1>
-<h4 align="center">Bahasa Pemrograman: JavaScript</h4>
+<h1 align="center">GHOST - Script MD Telegram dengan 1000 Metode</h1>
+<h5 align="center">(Bahasa Pemrograman - JavaScript)</h5>
 
 <p align="center">
-  <img src="https://badgen.net/github/stars/Naereen/Strapdown.js" alt="bintang">
-  <img src="https://badgen.net/github/forks/Naereen/Strapdown.js" alt="fork">
-  <img src="https://badgen.net/github/license/Naereen/Strapdown.js" alt="lisensi">
-  <img src="https://img.shields.io/badge/Dibuat%20dengan-JavaScript-1f425f.svg" alt="javascript">
+  <img alt="stars" src="https://badgen.net/github/stars/Naereen/Strapdown.js">
+  <img alt="forks" src="https://badgen.net/github/forks/Naereen/Strapdown.js">
+  <img alt="license" src="https://badgen.net/github/license/Naereen/Strapdown.js">
+  <img alt="js" src="https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg">
 </p>
 
-<p align="center"><b>Selamat Menikmati Script MD Telegram</b></p>
+<p align="center">Selamat Menikmati Script MD Telegram</p>
 
+<!-- GAMBAR UTAMA -->
 <p align="center">
-  <img src="https://files.catbox.moe/7g0mkt.jpg" width="90%" alt="POWER">
+  <img src="https://files.catbox.moe/7g0mkt.jpg" width="1078" height="433" alt="POWER">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/x7bwwy.jpg" width="90%" alt="SCRIPT">
+  <img src="https://files.catbox.moe/x7bwwy.jpg" width="1078" height="296" alt="SCRIPT">
 </p>
 
 <hr>
 
 <h2>📌 Informasi Umum</h2>
 
-<ul>
-  <li>Bot berjalan menggunakan <b>Pterodactyl Panel</b></li>
-  <li>Token Bot Telegram berada di file <code>config.js</code></li>
-  <li>Mendukung <b>Node.js versi 24</b></li>
-  <li>Struktur bersifat modular dan mudah dikembangkan</li>
-</ul>
+<p align="center">
+Bot ini berjalan menggunakan <b>Pterodactyl Panel</b>.  
+Konfigurasi Bot Telegram dan Token berada di file <code>config.js</code>.  
+Mendukung <b>Node.js versi 24</b>.
+</p>
 
 <hr>
 
@@ -35,26 +35,26 @@
 
 <h3>🎮 Hiburan & Permainan</h3>
 <ul>
-  <li>🎲 Sistem mini game dengan skor</li>
-  <li>🎵 Pemutar musik (YouTube & Spotify)</li>
-  <li>❓ Kuis dan trivia interaktif</li>
-  <li>🎯 Sistem ekonomi (uang virtual, toko, transaksi)</li>
+  <li>🎲 Sistem permainan dengan pelacakan skor</li>
+  <li>🎵 Pemutar musik (YouTube / Spotify)</li>
+  <li>❓ Kuis & trivia interaktif</li>
+  <li>🎯 Sistem ekonomi (uang virtual, toko, perdagangan)</li>
 </ul>
 
 <h3>🛡️ Moderasi & Keamanan</h3>
 <ul>
-  <li>⚡ Daftar hitam pengguna & grup</li>
+  <li>⚡ Manajemen daftar hitam pengguna & grup</li>
   <li>⚠️ Sistem peringatan bertahap</li>
-  <li>🔐 Perlindungan anti-spam & anti-bot</li>
-  <li>📊 Statistik dan pemantauan aktivitas</li>
+  <li>🔐 Verifikasi anti-spam & bot</li>
+  <li>📊 Statistik aktivitas pengguna</li>
 </ul>
 
 <h3>📝 Alat Produktivitas</h3>
 <ul>
-  <li>📅 Pengingat otomatis (sekali / berulang)</li>
+  <li>📅 Sistem pengingat cerdas</li>
   <li>📋 Catatan pribadi & grup</li>
   <li>🏷️ Tag pintasan perintah</li>
-  <li>⏰ Penjadwalan tugas</li>
+  <li>⏰ Penjadwalan tugas otomatis</li>
 </ul>
 
 <h3>🔧 Fitur Utilitas</h3>
@@ -69,36 +69,45 @@
 
 <h2>🔐 Keamanan Data</h2>
 <ul>
-  <li>🔒 Basis data JSON terenkripsi</li>
+  <li>🔒 Semua file JSON terenkripsi</li>
   <li>👥 Kontrol akses berbasis peran</li>
-  <li>🧾 Pencatatan audit perubahan</li>
-  <li>♻️ Pencadangan otomatis</li>
+  <li>🧾 Jejak audit lengkap</li>
+  <li>♻️ Sistem pencadangan otomatis</li>
 </ul>
 
 <hr>
 
 <h2>⚙️ Performa</h2>
 <ul>
-  <li>🚀 Proses baca / tulis cepat</li>
+  <li>🚀 Operasi baca/tulis cepat</li>
   <li>🧠 Penggunaan memori minimal</li>
   <li>🧹 Pembersihan otomatis data lama</li>
-  <li>🗂️ Sistem cache pintar</li>
+  <li>🗂️ Sistem cache efisien</li>
 </ul>
 
 <hr>
 
-<h2 align="center">🌐 Sosial & Komunitas</h2>
-<p align="center"><b>⚠️ Jangan gunakan tab Issues untuk bertanya</b></p>
+<h2 align="center">Our Social's 💻</h2>
+<h3 align="center" style="color:red;">Jangan gunakan tab Issues untuk bertanya!</h3>
 
+<!-- SOSIAL ICON RAPI -->
 <p align="center">
-  <img src="https://icon-library.com/images/github-icon-vector/github-icon-vector-27.jpg" width="48">
-  <img src="https://files.catbox.moe/dgdcxp.png" width="48">
-  <img src="https://files.catbox.moe/ue80ko.png" width="48">
+  <a href="https://github.com/AiiSima">
+    <img src="https://icon-library.com/images/github-icon-vector/github-icon-vector-27.jpg" width="64" height="64">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/AiiSimaRajaIblis">
+    <img src="https://files.catbox.moe/ue80ko.png" width="64" height="64" alt="Telegram">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@simaV1-9">
+    <img src="https://files.catbox.moe/dgdcxp.png" width="64" height="64" alt="YouTube">
+  </a>
 </p>
 
 <ul>
-  <li>Telegram: <a href="https://t.me/AiiSimaRajaIblis">https://t.me/AiiSimaRajaIblis</a></li>
-  <li>YouTube: <a href="https://www.youtube.com/@simaV1-9">https://www.youtube.com/@simaV1-9</a></li>
+  <li>Telegram Community: <a href="https://t.me/AiiSimaRajaIblis">https://t.me/AiiSimaRajaIblis</a></li>
+  <li>YouTube Channel: <a href="https://www.youtube.com/@simaV1-9">https://www.youtube.com/@simaV1-9</a></li>
   <li>GitHub: <a href="https://github.com/AiiSima">https://github.com/AiiSima</a></li>
 </ul>
 
@@ -108,31 +117,22 @@
 
 <h2>📥 Unduhan</h2>
 <p>
-  Unduh versi terbaru melalui GitHub Releases:<br>
   <a href="https://github.com/AiiSima/Script-MD-Telegram-/releases/tag/v2.0">
-    https://github.com/AiiSima/Script-MD-Telegram-/releases/tag/v2.0
+    GitHub Releases v2.0
   </a>
 </p>
 
 <hr>
 
 <h2>🧩 Instalasi</h2>
-
-<h4>Persyaratan</h4>
-<ul>
-  <li>Node.js versi 24</li>
-  <li>NPM</li>
-</ul>
-
 <pre><code>npm install</code></pre>
 
 <hr>
 
 <h2>📚 Dokumentasi</h2>
 <p>
-  Dokumentasi lengkap tersedia di GitHub Wiki:<br>
   <a href="https://github.com/AiiSima/Wiki.wiki.git">
-    https://github.com/AiiSima/Wiki.wiki.git
+    GitHub Wiki
   </a>
 </p>
 
@@ -142,12 +142,11 @@
 
 <p align="center">
   <a href="https://pfcloud.io/aff.php?aff=80">
-    <img src="https://files.catbox.moe/m0yhri.png" width="80%">
+    <img src="https://files.catbox.moe/m0yhri.png" width="728" alt="Hosting">
   </a>
 </p>
 
 <p>
-  Ingin server <b>10Gbps / Unlimited</b>?<br>
-  Hubungi Telegram:<br>
-  <a href="https://t.me/AiiSimaRajaIblis">https://t.me/AiiSimaRajaIblis</a>
+  Server 10Gbps / Unlimited:  
+  <a href="https://t.me/AiiSimaRajaIblis">Hubungi Telegram</a>
 </p>
