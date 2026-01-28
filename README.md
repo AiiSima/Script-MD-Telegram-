@@ -93,15 +93,15 @@ Mendukung <b>Node.js versi 24</b>.
 
 <p align="center">
   <a href="https://github.com/AiiSima" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" alt="GitHub">
+    <img src="https://github.com/AiiSima/Assets/blob/main/20260129_002953.png" width="40" alt="GitHub">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/AiiSimaRajaIblis" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" alt="Telegram">
+    <img src="https://github.com/AiiSima/Assets/blob/main/20260129_002805.png" width="40" alt="Telegram">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@simaV1-9" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40" alt="YouTube">
+    <img src="https://github.com/AiiSima/Assets/blob/main/20260129_002719.png" width="40" alt="YouTube">
   </a>
 </p>
 
