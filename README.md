@@ -2,10 +2,11 @@
 <h5 align="center">(Bahasa Pemrograman - JavaScript)</h5>
 
 <p align="center">
-  <img alt="stars" src="https://badgen.net/github/stars/Naereen/Strapdown.js">
-  <img alt="forks" src="https://badgen.net/github/forks/Naereen/Strapdown.js">
-  <img alt="license" src="https://badgen.net/github/license/Naereen/Strapdown.js">
-  <img alt="js" src="https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg">
+  <img alt="Stars" src="https://img.shields.io/badge/Stars-10k-8B5CF6">
+  <img alt="Works" src="https://img.shields.io/badge/Works-10k-10B981">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-F59E0B">
+  <img alt="Shell" src="https://img.shields.io/badge/With-JavaScript-3B82F6">
+  <img alt="BugBounty" src="https://img.shields.io/badge/ScriptMD-Quantum-EF4444">
 </p>
 
 <p align="center">Selamat Menikmati Script MD Telegram</p>
